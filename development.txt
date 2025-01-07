@@ -1,0 +1,2 @@
+Summary
+The adoc-er-auto is a webapp that will allow the end-to-end management of transfers of electronic records 
